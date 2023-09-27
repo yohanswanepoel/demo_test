@@ -1,0 +1,1 @@
+fhirbase --host localhost -p 5432 -d $POSTGRESQL_DATABASE -U $POSTGRESQL_USER -W $POSTGRESQL_PASSWORD web
